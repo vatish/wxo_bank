@@ -9,7 +9,6 @@
 
 </head>
 
-<!-- add your script here -->
 <script>
 
   window.watsonAssistantChatOptions = {
